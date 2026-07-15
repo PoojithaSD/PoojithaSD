@@ -24,7 +24,7 @@ I love exploring new technologies and turning what I learn into real projects.
 ### 🛠️ Tech Stack
 
 
-## Tech Stack
+
 
 
 
