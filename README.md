@@ -1,55 +1,60 @@
-<h1 align="center">Hi there, I'm Poojitha 👋</h1>
-<h3 align="center">Cyber Security Student | B.E. Computer Science Engineering</h3>
+# Poojitha S D
 
-<p align="center">
-I'm a B.E. Computer Science Engineering (Cyber Security) student passionate about 
-ethical hacking, network security, and building secure digital solutions. 
-I love exploring new technologies and turning what I learn into real projects.
-</p>
+### Cyber Security Student | B.E. Computer Science Engineering
+
+I am a B.E. Computer Science Engineering (Cyber Security) student with a 
+strong interest in cybersecurity, ethical hacking, and secure software 
+development. I enjoy learning new technologies and building practical 
+projects that strengthen my technical skills.
 
 ---
 
-### 🚀 Currently Learning
-- 🔹 Java  
-- 🔹 Git & GitHub  
-- 🔹 Linux  
-- 🔹 Networking  
+## Currently Learning
 
-### 🎯 Technical Interests
-- 🔐 Cyber Security  
-- 🕵️ Ethical Hacking  
-- 🌐 Network Security  
-- 🛡️ Web Security  
+- Java
+- Git & GitHub
+- Linux
+- Networking
 
-### 🛠️ Tech Stack
+## Technical Interests
 
+- Cyber Security
+- Ethical Hacking
+- Network Security
+- Web Security
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
+## Technical Skills
 
 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 
 
 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 
 
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 
 
 
-### 🎯 Career Goal
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+
+
+
+## Career Goal
+
 To build a strong foundation in cybersecurity and contribute to developing 
 secure and reliable digital solutions through continuous learning and 
 hands-on experience.
 
 ---
 
-<p align="center">
-⭐ Thank you for visiting my GitHub profile! Feel free to connect and collaborate.
-</p>
+**Location:** Tamil Nadu, India  
+**Email:** 2007pooji@gmail.com
+
+Thank you for visiting my GitHub profile.
