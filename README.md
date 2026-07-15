@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Poojitha 👋</h1>
-<h3 align="center">Cyber Security Student | B.E. Computer Science Engineering</h3>
+<h3 align="center">B.E. Computer Science Engineering (Cyber Security Student)</h3>
 
 <p align="center">
 I'm a B.E. Computer Science Engineering (Cyber Security) student passionate about 
