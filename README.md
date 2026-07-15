@@ -1,30 +1,33 @@
-<h1 align="center">Hi there, I'm Poojitha 👋</h1>
-<h3 align="center">B.E. Computer Science Engineering (Cyber Security Student)</h3>
+# Poojitha S D
 
-<p align="center">
-I'm a B.E. Computer Science Engineering (Cyber Security) student passionate about 
-ethical hacking, network security, and building secure digital solutions. 
-I love exploring new technologies and turning what I learn into real projects.
-</p>
+### Cyber Security Student | B.E. Computer Science Engineering
+
+I'm a B.E. Computer Science Engineering (Cyber Security) student passionate 
+about ethical hacking, network security, and building secure digital 
+solutions. I love exploring new technologies and turning what I learn into 
+real projects.
 
 ---
 
-### 🚀 Currently Learning
-- 🔹 Java  
-- 🔹 Git & GitHub  
-- 🔹 Linux  
-- 🔹 Networking  
+## Currently Learning
 
-### 🎯 Technical Interests
-- 🔐 Cyber Security  
-- 🕵️ Ethical Hacking  
-- 🌐 Network Security  
-- 🛡️ Web Security  
+- Java
+- Git & GitHub
+- Linux
+- Networking
 
-### 🛠️ Tech Stack
+## Technical Interests
+
+- Cyber Security
+- Ethical Hacking
+- Network Security
+- Web Security
+
+## Tech Stack
 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 
 
@@ -43,13 +46,15 @@ I love exploring new technologies and turning what I learn into real projects.
 
 
 
-### 🎯 Career Goal
+## Career Goal
+
 To build a strong foundation in cybersecurity and contribute to developing 
 secure and reliable digital solutions through continuous learning and 
 hands-on experience.
 
 ---
 
-<p align="center">
-⭐ Thank you for visiting my GitHub profile! Feel free to connect and collaborate.
-</p>
+**Location:** Tamil Nadu, India  
+**Email:** 2007pooji@gmail.com
+
+Thank you for visiting my GitHub profile.
