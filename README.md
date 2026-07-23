@@ -8,6 +8,11 @@ I love exploring new technologies and turning what I learn into real projects.
 </p>
 
 ---
+**🎓 Education:** B.E. Computer Science Engineering (Cyber Security)
+
+**🏫 College:** United Institute of Technology, Coimbatore
+
+**🛡️ Interested Domain:** Cyber Security & Ethical Hacking
 
 ### 🚀 Currently Learning
 - 🔹 Java  
@@ -52,10 +57,13 @@ I love exploring new technologies and turning what I learn into real projects.
 ### 🎯 Career Goal
 To build a strong foundation in cybersecurity and contribute to developing 
 secure and reliable digital solutions through continuous learning and 
-hands-on experience.
+hands-on experience. And to become a skilled Cyber Security Professional by continuously improving my technical and problem-solving skills. I aspire to specialize in Ethical Hacking and Network Security while contributing to building secure digital systems.
 
+**💬 Motto:**
+> "Learn. Practice. Secure."
 ---
 
 <p align="center">
 ⭐ Thank you for visiting my GitHub profile! Feel free to connect and collaborate.
+  Let's connect, learn, and build secure solutions together. 🚀
 </p>
