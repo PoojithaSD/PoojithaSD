@@ -2,13 +2,12 @@
 <h3 align="center"> Aspiring Cyber Security Professional | B.E. Computer Science Engineering (Cyber Security) Student</h3>
 
 <p align="center">
-I'm a B.E. Computer Science Engineering (Cyber Security) student passionate about 
-ethical hacking, network security, and building secure digital solutions. 
+I'm a  am passionate about **Cyber Security**, **Ethical Hacking**, and **Network Security**. I enjoy exploring new technologies, solving security challenges, and building practical skills through hands-on projects and building secure digital solutions. 
 I love exploring new technologies and turning what I learn into real projects.
 </p>
 
 ---
-**🎓 Education:** B.E. Computer Science Engineering (Cyber Security)
+**🎓 Education:** B.E. Computer Science Engineering (Cyber Security) Student
 
 **🏫 College:** United Institute of Technology, Coimbatore
 
